@@ -5,8 +5,9 @@
 <p>2- sign in, logout</p>
 <p>3- create add cart</p>
 <p>4- remove from add cart</p>
-<p>5- checkout</p>
-<p>6- add session </p>
+<p>5- product quantities</p>
+<p>6- checkout</p>
+<p>7- add session </p>
 
 
 <h3>Image for all products</h3>
