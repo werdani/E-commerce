@@ -29,4 +29,6 @@
 
 ![Customer](https://user-images.githubusercontent.com/51214702/113432271-5c44cb80-93dd-11eb-853f-9e1e90a6aad8.PNG)
 
+<h3>Image for pay by credit card</h3>
+
 
