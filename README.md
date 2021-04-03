@@ -9,6 +9,7 @@
 <p>6- checkout</p>
 <p>7- add session </p>
 <p>8- Launching asynchronous tasks with Celery </p>
+<p>9- Managing Payments and Orders </p>
 
 
 <h3>Image for all products</h3>
