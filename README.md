@@ -10,6 +10,7 @@
 <p>7- add session </p>
 <p>8- Launching asynchronous tasks with Celery </p>
 <p>9- Managing Payments and Orders </p>
+<p>10- Exporting orders to CSV files </p>
 
 
 <h3>Image for all products</h3>
