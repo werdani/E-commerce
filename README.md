@@ -1,8 +1,7 @@
 # E-commerce
 
 <h3>create a full e-commerce consist  of  </h3>
-<p>1- authentication by Facebook, Gmail, LinkedIn</p>
-<p>2- sign in, logout</p>
+1- authentication by Facebook, Gmail, LinkedIn <tb>2- sign in, logout
 <p>3- create add cart</p>
 <p>4- remove from add cart</p>
 <p>5- product quantities</p>
