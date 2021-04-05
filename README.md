@@ -2,12 +2,9 @@
 
 <h3>create a full e-commerce consist  of  </h3>
 1- authentication by Facebook, Gmail, LinkedIn &emsp; &emsp; 2- sign in, logout
-<p>3- create add cart</p>
-<p>4- remove from add cart</p>
-<p>5- product quantities</p>
-<p>6- checkout</p>
-<p>7- add session </p>
-<p>8- Launching asynchronous tasks with Celery </p>
+3- create add cart &emsp; &emsp; 4- remove from add cart
+5- product quantities &emsp; &emsp; 6- checkout
+7- add session &emsp; &emsp; 8- Launching asynchronous tasks with Celery
 <p>9- Managing Payments and Orders </p>
 <p>10- Exporting orders to CSV files </p>
 <p>11- Creating a coupon system </p>
