@@ -11,7 +11,6 @@
 <p>8- Launching asynchronous tasks with Celery </p>
 <p>9- Managing Payments and Orders </p>
 <p>10- Exporting orders to CSV files </p>
-<p>11- Generating PDF invoices dynamically </p>
 
 
 <h3>Image for all products</h3>
