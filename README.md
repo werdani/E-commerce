@@ -8,7 +8,7 @@
 9- Managing Payments and Orders &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;10- Exporting orders to CSV files <br>
 11- Creating a coupon system 
 
-<h3>Image for all products</h3>
+<h3>Image for all products :</h3>
 
 ![all](https://user-images.githubusercontent.com/51214702/113212217-c55dff00-9276-11eb-84c9-1d0e909ef4d9.PNG)
 
