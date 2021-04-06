@@ -30,5 +30,7 @@
 
 ![pay](https://user-images.githubusercontent.com/51214702/113491003-f6843c80-94cd-11eb-8b9a-23fa1702a163.PNG)
 
+<h3>Image for apply coupons : </h3>
+
 
 
