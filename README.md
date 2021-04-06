@@ -6,18 +6,19 @@
 5- product quantities &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;6- checkout <br>
 7- add session &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; 8- Launching asynchronous tasks with Celery<br>
 9- Managing Payments and Orders &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;10- Exporting orders to CSV files <br>
-11- Creating a coupon system 
+11- Creating a coupon system
+
 
 <h3>Image for all products :</h3>
 
 ![all](https://user-images.githubusercontent.com/51214702/113212217-c55dff00-9276-11eb-84c9-1d0e909ef4d9.PNG)
 
 
-<h3>Image for details for the one product</h3>
+<h3>Image for details for the one product :</h3>
 
 ![ane](https://user-images.githubusercontent.com/51214702/113212274-d444b180-9276-11eb-9f2e-31eab36d82d4.PNG)
 
-<h3>Image for add to cart</h3>
+<h3>Image for add to cart :</h3>
 
 ![Cart](https://user-images.githubusercontent.com/51214702/113287845-676cfe00-92ee-11eb-8aac-16f66080eb55.PNG)
 
