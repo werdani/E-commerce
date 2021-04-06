@@ -22,11 +22,11 @@
 
 ![Cart](https://user-images.githubusercontent.com/51214702/113287845-676cfe00-92ee-11eb-8aac-16f66080eb55.PNG)
 
-<h3>Image for customer orders</h3>
+<h3>Image for customer orders :</h3>
 
 ![Customer](https://user-images.githubusercontent.com/51214702/113432271-5c44cb80-93dd-11eb-853f-9e1e90a6aad8.PNG)
 
-<h3>Image for pay by credit card</h3>
+<h3>Image for pay by credit card :</h3>
 
 ![pay](https://user-images.githubusercontent.com/51214702/113491003-f6843c80-94cd-11eb-8b9a-23fa1702a163.PNG)
 
