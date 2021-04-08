@@ -1,6 +1,6 @@
 # E-commerce :-
 
-# create a full e-commerce consist  of : 
+# create a full e-commerce consist  of :-
 1- authentication by Facebook, Gmail, LinkedIn &emsp; &emsp; 2- sign in, logout <br>
 3- create add cart &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 4- remove from add cart <br>
 5- product quantities &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;6- checkout <br>
