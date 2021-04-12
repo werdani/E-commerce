@@ -8,12 +8,12 @@
 11- Creating a coupon system . &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;12-add translate .
 
 
-<h3>Image for all products :</h3>
+<h3>Image for all products :-</h3>
 
 ![all](https://user-images.githubusercontent.com/51214702/113212217-c55dff00-9276-11eb-84c9-1d0e909ef4d9.PNG)
 
 
-<h3>Image for details for the one product :</h3>
+<h3>Image for details for the one product :-</h3>
 
 ![ane](https://user-images.githubusercontent.com/51214702/113212274-d444b180-9276-11eb-9f2e-31eab36d82d4.PNG)
 
