@@ -25,11 +25,11 @@
 
 ![Customer](https://user-images.githubusercontent.com/51214702/113432271-5c44cb80-93dd-11eb-853f-9e1e90a6aad8.PNG)
 
-<h3>Image for pay by credit card :</h3>
+<h3>Image for pay by credit card :-</h3>
 
 ![pay](https://user-images.githubusercontent.com/51214702/113491003-f6843c80-94cd-11eb-8b9a-23fa1702a163.PNG)
 
-<h3>Image for apply coupons : </h3>
+<h3>Image for apply coupons :- </h3>
 
 ![coupon](https://user-images.githubusercontent.com/51214702/113792854-34d86080-9747-11eb-9cfc-314c5c648bfb.PNG)
 
