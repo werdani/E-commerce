@@ -17,11 +17,11 @@
 
 ![ane](https://user-images.githubusercontent.com/51214702/113212274-d444b180-9276-11eb-9f2e-31eab36d82d4.PNG)
 
-<h3>Image for add to cart :</h3>
+<h3>Image for add to cart :-</h3>
 
 ![Cart](https://user-images.githubusercontent.com/51214702/113287845-676cfe00-92ee-11eb-8aac-16f66080eb55.PNG)
 
-<h3>Image for customer orders :</h3>
+<h3>Image for customer orders :-</h3>
 
 ![Customer](https://user-images.githubusercontent.com/51214702/113432271-5c44cb80-93dd-11eb-853f-9e1e90a6aad8.PNG)
 
