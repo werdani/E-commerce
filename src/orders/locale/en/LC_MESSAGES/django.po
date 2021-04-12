@@ -17,11 +17,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\orders\models.py:6
+msgid "first name"
+msgstr "first name"
 
-#: .\myshop\settings.py:163
-msgid "English"
-msgstr ""
+#: .\orders\models.py:7
+msgid "last name"
+msgstr "last name"
 
-#: .\myshop\settings.py:164
-msgid "Arabic"
-msgstr ""
+#: .\orders\models.py:8
+msgid "e-mail"
+msgstr "e-mail"
+
+#: .\orders\models.py:9
+msgid "address"
+msgstr "address"
+
+#: .\orders\models.py:10
+msgid "postal code"
+msgstr "postal code"
+
+#: .\orders\models.py:11
+msgid "city"
+msgstr "city"

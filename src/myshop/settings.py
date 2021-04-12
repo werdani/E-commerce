@@ -155,11 +155,6 @@ BRAINTREE_CONF = braintree.Configuration(
 
 LANGUAGE_CODE = 'en'
 
-LANGUAGES = (
-    ('en', 'English'),
-    ('ar', 'Arabic'),
-)
-
 LOCALE_PATHS = (
     os.path.join(BASE_DIR, 'locale/'),
 )
@@ -167,4 +162,9 @@ LOCALE_PATHS = (
 LANGUAGES = (
  ('en', _('English')),
  ('ar', _('Arabic')),
+)
+
+MULTILINGUAL_LANGUAGES = (
+    "en-us",
+    "ar-ae",
 )
