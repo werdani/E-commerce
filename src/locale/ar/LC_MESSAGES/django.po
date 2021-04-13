@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-12 19:12+0200\n"
+"POT-Creation-Date: 2021-04-13 05:20+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,10 +19,55 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
+#: .\cart\forms.py:8
+msgid "Quantity"
+msgstr ""
+
+#: .\coupons\forms.py:5
+msgid "Coupon"
+msgstr ""
+
 #: .\myshop\settings.py:163
 msgid "English"
 msgstr ""
 
 #: .\myshop\settings.py:164
 msgid "Arabic"
+msgstr ""
+
+#: .\shop\templates\product\detail.html:21
+msgid "Add to cart"
+msgstr ""
+
+#: .\templates\base.html:7 .\templates\base.html:12
+msgid "My shop"
+msgstr ""
+
+#: .\templates\base.html:18
+msgid "Your cart"
+msgstr ""
+
+#: .\templates\base.html:20
+#, python-format
+msgid ""
+"\n"
+"                  %(items)s item, $%(total)s\n"
+"                  \n"
+"           %(total_items)s item%(total_items|pluralize)s,\n"
+"           $%(cart.get_total_price)s\n"
+"\n"
+"           "
+msgid_plural ""
+"\n"
+"            %(items)s items, $%(total)s\n"
+"            "
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: .\templates\base.html:31
+msgid "Your cart is empty."
 msgstr ""
