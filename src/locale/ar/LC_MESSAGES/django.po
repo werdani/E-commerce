@@ -3,49 +3,49 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 05:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-04-15 00:40+0000\n"
+"Last-Translator: b'  <>'\n"
+"Language-Team: \n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Translated-Using: django-rosetta 0.9.3\n"
 
 #: .\cart\forms.py:8
 msgid "Quantity"
-msgstr ""
+msgstr "الكمية"
 
 #: .\coupons\forms.py:5
 msgid "Coupon"
-msgstr ""
+msgstr "كوبون"
 
 #: .\myshop\settings.py:163
 msgid "English"
-msgstr ""
+msgstr "الانجليزية"
 
 #: .\myshop\settings.py:164
 msgid "Arabic"
-msgstr ""
+msgstr "العربية"
 
 #: .\shop\templates\product\detail.html:21
 msgid "Add to cart"
-msgstr ""
+msgstr "اضف للسلة"
 
 #: .\templates\base.html:7 .\templates\base.html:12
 msgid "My shop"
-msgstr ""
+msgstr "متجري"
 
 #: .\templates\base.html:18
 msgid "Your cart"
-msgstr ""
+msgstr "سلة التسوق"
 
 #: .\templates\base.html:20
 #, python-format
@@ -70,4 +70,4 @@ msgstr[5] ""
 
 #: .\templates\base.html:31
 msgid "Your cart is empty."
-msgstr ""
+msgstr "سلة مشترياتك فارغة ."
