@@ -5,7 +5,7 @@
 5- product quantities . &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;6- checkout . <br>
 7- add session .&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; 8- Launching asynchronous tasks with Celery .<br>
 9- Managing Payments and Orders . &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;10- Exporting orders to CSV files . <br>
-11- Creating a coupon system . &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;12-add translate (Arabic,English).
+11- Creating a coupon system . &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;12-add translate ('Arabic','English').
 
 
 <h3>Image for all products :-</h3>
