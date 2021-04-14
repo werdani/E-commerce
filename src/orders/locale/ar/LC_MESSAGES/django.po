@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-13 05:21+0200\n"
+"POT-Creation-Date: 2021-04-15 01:02+0200\n"
 "PO-Revision-Date: 2021-04-13 01:27+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -66,4 +66,8 @@ msgstr ""
 
 #: .\orders\templates\orders\order\create.html:31
 msgid "Place order"
+msgstr ""
+
+#: .\orders\urls.py:10
+msgid "create/"
 msgstr ""
