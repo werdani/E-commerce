@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'payment',
     'coupons',
     'rosetta',
+    'parler',
 ]
 
 MIDDLEWARE = [
@@ -169,3 +170,9 @@ MULTILINGUAL_LANGUAGES = (
     "en-us",
     "ar-ae",
 )
+
+PARLER_LANGUAGES = {
+    None: (
+    {'code': 'en'},
+    {'code': 'es'}, ),'default': {'fallback': 'en','hide_untranslated': False,}
+}
