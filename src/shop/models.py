@@ -1,10 +1,14 @@
 from django.db import models
 from django.urls import reverse
+from parler.models import TranslatableModel, TranslatedFields
+
 
 # Create your models here.
-class Category(models.Model):
- 	name = models.CharField(max_length=200,db_index=True)
- 	slug = models.SlugField(max_length=200,unique=True)
+class Category(TranslatableModel):
+ 	translations = TranslatedFields(
+		name = models.CharField(max_length=200,db_index=True),
+ 	    slug = models.SlugField(max_length=200,db_index=True,unique=True)
+    )
 
 
  	def get_absolute_url(self):
@@ -19,7 +23,12 @@ class Category(models.Model):
  		return self.name
 
  	
-class Product(models.Model):
+class Product(TranslatableModel):
+	translations = TranslatedFields(
+ 		name = models.CharField(max_length=200, db_index=True),
+ 		slug = models.SlugField(max_length=200, db_index=True),
+ 		description = models.TextField(blank=True)
+    )
  	category = models.ForeignKey(Category,related_name='products',on_delete=models.CASCADE)
  	name  = models.CharField(max_length=200, db_index=True)
  	slug  = models.SlugField(max_length=200, db_index=True)
@@ -32,10 +41,11 @@ class Product(models.Model):
  	
  	def get_absolute_url(self):
  		return reverse('shop:product_detail',args=[self.id, self.slug])
-
- 	class Meta:
- 		ordering = ('name',)
- 		index_together = (('id', 'slug'),)
+		 
+#The current version of django-parler does not provide support to validate index_together
+   #class Meta:
+ 	#	ordering = ('name',)
+ 	#	index_together = (('id', 'slug'),)
 
  	def __str__(self):
  		return self.name
