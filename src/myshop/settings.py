@@ -173,6 +173,11 @@ MULTILINGUAL_LANGUAGES = (
 
 PARLER_LANGUAGES = {
     None: (
-    {'code': 'en'},
-    {'code': 'es'}, ),'default': {'fallback': 'en','hide_untranslated': False,}
+        {'code': 'en'},
+        {'code': 'ar'},
+    ),
+    'default': {
+        'fallback': 'en',
+        'hide_untranslated': False,
+    }
 }

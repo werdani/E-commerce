@@ -28,19 +28,19 @@ msgstr "last name"
 
 #: .\orders\models.py:8
 msgid "e-mail"
-msgstr "e-mail"
+msgstr ""
 
 #: .\orders\models.py:9
 msgid "address"
-msgstr "address"
+msgstr ""
 
 #: .\orders\models.py:10
 msgid "postal code"
-msgstr "postal code"
+msgstr ""
 
 #: .\orders\models.py:11
 msgid "city"
-msgstr "city"
+msgstr ""
 
 #: .\orders\templates\orders\order\create.html:5
 #: .\orders\templates\orders\order\create.html:8
