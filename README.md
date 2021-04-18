@@ -3,7 +3,7 @@
 1- registration by Facebook, Gmail, LinkedIn . &emsp; &emsp; &emsp; 2- sign in, logout . <br>
 3- create add cart . &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 4- remove from add cart . <br>
 5- product quantities . &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;6- checkout . <br>
-7- add session .&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; 8- Launching asynchronous tasks with Celery .<br>
+7- add session .&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; 8- Launching asynchronous tasks with Celery .<br>
 9- Managing Payments and Orders . &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;10- Exporting orders to CSV files . <br>
 11- Creating a coupon system . &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;12-add translate ('Arabic','English').
 
